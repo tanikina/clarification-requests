@@ -41,33 +41,33 @@ March 2023: Presentations
 
 **Office hours:**
 
-We will also offer office hours during the semester. Please write us an email to make an appointment (first_name.second_name@dfki.de). Students are welcome to ask any questions concerning their presentation and the papers from the reading list.
+We will also offer office hours during the semester. Please write us an email to make an appointment (first_name.last_name@dfki.de). Students are welcome to ask any questions concerning their presentation and the papers from the reading list.
 
 **Reading list:**
 
-A recipe for Annotating Grounded Clarifications (Benotti et al., 2021) Link: <https://aclanthology.org/2021.naacl-main.320/>
+1. A recipe for Annotating Grounded Clarifications (Benotti et al., 2021) Link: <https://aclanthology.org/2021.naacl-main.320/>
 
-Anticipating User Intentions in Customer Care Dialogue Systems (Mazzei et al., 2022) Link: <https://iris.unito.it/retrieve/0d7f7d1c-fb96-4978-9491-0ff0859f9fa0/TIM-IEEETHMS-MR-02.pdf>
+2. Anticipating User Intentions in Customer Care Dialogue Systems (Mazzei et al., 2022) Link: <https://iris.unito.it/retrieve/0d7f7d1c-fb96-4978-9491-0ff0859f9fa0/TIM-IEEETHMS-MR-02.pdf>
 
-Building and Evaluating Open-Domain Dialogue Corpora with Clarifying Questions (Aliannejadi et al., 2021) Link: <https://aclanthology.org/2021.emnlp-main.367.pdf>
+3. Building and Evaluating Open-Domain Dialogue Corpora with Clarifying Questions (Aliannejadi et al., 2021) Link: <https://aclanthology.org/2021.emnlp-main.367.pdf>
 
-CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models (Kuhn et al., 2022) Link: <https://arxiv.org/pdf/2212.07769.pdf>
+4. CLAM: Selective Clarification for Ambiguous Questions with Generative Language Models (Kuhn et al., 2022) Link: <https://arxiv.org/pdf/2212.07769.pdf>
 
-Combining Cognitive Modeling and Reinforcement Learning for Clarification in Dialogue (Khalid et al., 2020) Link: <https://aclanthology.org/2020.coling-main.391.pdf>
+5. Combining Cognitive Modeling and Reinforcement Learning for Clarification in Dialogue (Khalid et al., 2020) Link: <https://aclanthology.org/2020.coling-main.391.pdf>
 
-Improving Grounded Language Understanding in a Collaborative Environment by 	Interacting with Agents Through Help Feedback (Mehta et al., 2023) Link: <https://arxiv.org/pdf/2304.10750.pdf>
+6. Improving Grounded Language Understanding in a Collaborative Environment by 	Interacting with Agents Through Help Feedback (Mehta et al., 2023) Link: <https://arxiv.org/pdf/2304.10750.pdf>
 
-Instruction Clarification Requests in Multimodal Collaborative Dialogue Games: Tasks, and an Analysis of the CoDraw Dataset (Madureira and Schlangen, 2023) Link: <https://aclanthology.org/2023.eacl-main.169.pdf>
+7. Instruction Clarification Requests in Multimodal Collaborative Dialogue Games: Tasks, and an Analysis of the CoDraw Dataset (Madureira and Schlangen, 2023) Link: <https://aclanthology.org/2023.eacl-main.169.pdf>
 
-Learning to Execute Actions or Ask Clarification Questions (Shi et al., 2022) Link: <https://aclanthology.org/2022.findings-naacl.158.pdf>
+8. Learning to Execute Actions or Ask Clarification Questions (Shi et al., 2022) Link: <https://aclanthology.org/2022.findings-naacl.158.pdf>
 
-Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration (Deng et al, 2023) Link:<https://www.semanticscholar.org/paper/Prompting-and-Evaluating-Large-Language-Models-for-Deng-Lei/e52e880dc619f9c4ebef932b895d29c352b69bdc>
+9. Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration (Deng et al, 2023) Link:<https://www.semanticscholar.org/paper/Prompting-and-Evaluating-Large-Language-Models-for-Deng-Lei/e52e880dc619f9c4ebef932b895d29c352b69bdc>
 
-TITAN: Task-oriented Dialogues with Mixed-Initiative Interactions (Yan et al., 2023) Link:<https://www.ijcai.org/proceedings/2023/0583.pdf>
+10. TITAN: Task-oriented Dialogues with Mixed-Initiative Interactions (Yan et al., 2023) Link:<https://www.ijcai.org/proceedings/2023/0583.pdf>
 
-Towards Asking Clarification Questions for Information Seeking on Task-Oriented Dialogues (Feng et al., 2023) Link: <https://www.semanticscholar.org/paper/Towards-Asking-Clarification-Questions-for-Seeking-Feng-Rahmani/08f19410879c4c6ca1ca07d803785e4d949a850a>
+11. Towards Asking Clarification Questions for Information Seeking on Task-Oriented Dialogues (Feng et al., 2023) Link: <https://www.semanticscholar.org/paper/Towards-Asking-Clarification-Questions-for-Seeking-Feng-Rahmani/08f19410879c4c6ca1ca07d803785e4d949a850a>
 
-'What are you referring to?’ Evaluating the ability of multi-modal dialogue models to process clarificational exchanges (Chiyah-Garcia et al., 2023) Link: <https://www.pure.ed.ac.uk/ws/portalfiles/portal/379604667/What_are_you_referring_to_CHIYAH_GARCIA_DOA10072023_AFV_CC_BY.pdf>
+12. 'What are you referring to?’ Evaluating the ability of multi-modal dialogue models to process clarificational exchanges (Chiyah-Garcia et al., 2023) Link: <https://www.pure.ed.ac.uk/ws/portalfiles/portal/379604667/What_are_you_referring_to_CHIYAH_GARCIA_DOA10072023_AFV_CC_BY.pdf>
 
-Where to Go for the Holidays: Towards Mixed-Type Dialogs for Clarification of User Goals (2022) Link: <https://aclanthology.org/2022.acl-long.73.pdf>
+13. Where to Go for the Holidays: Towards Mixed-Type Dialogs for Clarification of User Goals (2022) Link: <https://aclanthology.org/2022.acl-long.73.pdf>
 
