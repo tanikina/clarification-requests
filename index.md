@@ -20,9 +20,9 @@ The first sessions will be on Tuesdays from 16:15 until 17:45. The student prese
 
 31.10.23: Introduction, Resources and Evaluation
 
-07.11.22: Models for Clarification Requests
+07.11.23: Models for Clarification Requests
 
-14.11.22: Practical Session and Paper Assignments
+14.11.23: Practical Session and Paper Assignments
 
 March 2023: Presentations
 
